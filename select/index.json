@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "シェイク・イット・オフ～気にしてなんかいられないっ！！（テイラーズ・ヴァージョン）",
+  "base_artist": "Taylor Swift",
+  "createdAt": "2025-12-12T04:04:29.532789Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Shake It Off",
+      "artist": "Taylor Swift",
+      "has_synced": false,
+      "path": "select/pl_01_Shake_It_Off_Taylor_Swift.txt"
+    }
+  ]
+}
